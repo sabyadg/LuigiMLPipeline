@@ -1,0 +1,856 @@
+Closest_City,airline_sentiment,y
+New York City,positive,2
+Chelsea,negative,0
+El Segundo,neutral,1
+El Segundo,negative,0
+Frisco,positive,2
+Culver City,neutral,1
+Aliso Viejo,neutral,1
+Springfield Gardens,negative,0
+Paradise,positive,2
+San Francisco,neutral,1
+Dania Beach,negative,0
+El Segundo,positive,2
+Calgary,negative,0
+Springfield Gardens,neutral,1
+El Segundo,positive,2
+"Washington, D.C.",positive,2
+Dallas,positive,2
+Dallas,negative,0
+Dania Beach,negative,0
+Dallas,positive,2
+Gladstone,neutral,1
+San Francisco,positive,2
+El Segundo,neutral,1
+Port Richmond,negative,0
+Ronkonkoma,neutral,1
+Westford,positive,2
+San Francisco,neutral,1
+Summerlin South,neutral,1
+Venustiano Carranza,negative,0
+Brighton,positive,2
+Wolverhampton,negative,0
+Aldine,neutral,1
+Aldine,negative,0
+Aldine,negative,0
+Aldine,negative,0
+Aldine,negative,0
+Aldine,negative,0
+Aldine,negative,0
+Kenner,negative,0
+Kenner,negative,0
+Kenner,negative,0
+Kenner,negative,0
+Kenner,negative,0
+Kenner,negative,0
+Kenner,negative,0
+Cary,positive,2
+Birmingham,negative,0
+Orchards,negative,0
+Rasunda,positive,2
+North Charleston,negative,0
+Bensenville,neutral,1
+Hale,neutral,1
+Bensenville,negative,0
+San Francisco,neutral,1
+Bensenville,negative,0
+Chicago,negative,0
+Cary,neutral,1
+El Segundo,negative,0
+Niles,negative,0
+Brighton,negative,0
+Oak Hill,positive,2
+Bensenville,negative,0
+Oak Hill,positive,2
+Elizabeth,negative,0
+Bergeyk,neutral,1
+Dania Beach,negative,0
+Newark,negative,0
+Dania Beach,negative,0
+Newark,negative,0
+Winter Park,negative,0
+Newark,negative,0
+Brighton,negative,0
+Brighton,negative,0
+Paderborn,negative,0
+Bellaire,negative,0
+Elizabeth,negative,0
+Polanco,negative,0
+Bellaire,negative,0
+Bensenville,negative,0
+Franklin Park,negative,0
+Bergeyk,positive,2
+Franklin Park,negative,0
+Bensenville,negative,0
+Aldine,negative,0
+Portland,negative,0
+Franklin Park,negative,0
+Aldine,negative,0
+Bensenville,negative,0
+Bozeman,neutral,1
+Bensenville,negative,0
+East Point,negative,0
+Newark,neutral,1
+Montrose,negative,0
+Xiuying,positive,2
+Aurora,negative,0
+Paradise,negative,0
+Egypt Lake-Leto,neutral,1
+Bozeman,negative,0
+Bozeman,negative,0
+Bozeman,negative,0
+Bozeman,negative,0
+Aldine,negative,0
+Hampton Park,neutral,1
+Hampton Park,neutral,1
+El Segundo,negative,0
+Aldine,negative,0
+Paradise,negative,0
+Chicago,positive,2
+Bensenville,positive,2
+Skokie,neutral,1
+Bergeyk,positive,2
+Boise,negative,0
+Oak Hill,positive,2
+Boise,positive,2
+Brighton,negative,0
+Newark,negative,0
+SeaTac,negative,0
+SeaTac,negative,0
+Brighton,negative,0
+Camberwell,neutral,1
+Brighton,negative,0
+Brighton,negative,0
+Brighton,negative,0
+Oakland,negative,0
+Aldine,negative,0
+Aldine,negative,0
+Bensenville,negative,0
+Bensenville,positive,2
+Brownsville,positive,2
+Gahanna,negative,0
+Gahanna,negative,0
+Oak Hill,negative,0
+Aldine,neutral,1
+Aldine,negative,0
+Newark,negative,0
+Gahanna,negative,0
+Tung Chung,neutral,1
+Millbrae,negative,0
+El Segundo,negative,0
+Rock Hill,negative,0
+Millbrae,positive,2
+Honolulu,neutral,1
+Oak Hill,negative,0
+Oak Hill,negative,0
+Millbrae,negative,0
+Millbrae,negative,0
+Oak Hill,negative,0
+Matthews,negative,0
+Rexburg,negative,0
+Brighton,negative,0
+Dania Beach,positive,2
+Rock Hill,negative,0
+Rock Hill,negative,0
+Polanco,positive,2
+Benito Juarez,negative,0
+Millbrae,negative,0
+Millbrae,negative,0
+Jersey City,negative,0
+Punta Cana,negative,0
+Oak Hill,negative,0
+Shanghai,neutral,1
+Palm Springs,negative,0
+Palm Springs,negative,0
+Long Island City,negative,0
+North Atlanta,negative,0
+North Atlanta,negative,0
+Nassau,negative,0
+Chelsea,neutral,1
+Denver,positive,2
+Punta Cana,negative,0
+Punta Cana,negative,0
+Punta Cana,negative,0
+Punta Cana,neutral,1
+Rutland,negative,0
+Houston,negative,0
+Franklin Park,positive,2
+Bensenville,positive,2
+Bensenville,positive,2
+Rubidoux,negative,0
+El Segundo,positive,2
+Chicago,positive,2
+Chicago,negative,0
+Chicago,negative,0
+Commerce City,negative,0
+Aurora,negative,0
+Aurora,negative,0
+Aurora,negative,0
+Chicago,negative,0
+Aurora,negative,0
+New York City,negative,0
+Aldine,negative,0
+New York City,negative,0
+Ashland,negative,0
+San Bruno,positive,2
+Aldine,negative,0
+Springfield Gardens,neutral,1
+Winnipeg,positive,2
+Aldine,negative,0
+Franklin Park,negative,0
+San Francisco,negative,0
+East Point,positive,2
+East Point,negative,0
+Waltham,negative,0
+Etobicoke,positive,2
+Orchards,positive,2
+Kissimmee,negative,0
+Dubai,neutral,1
+Orchards,negative,0
+Millbrae,negative,0
+Dubai,neutral,1
+Dubai,negative,0
+Conroe,neutral,1
+Dubai,negative,0
+Aldine,positive,2
+Millbrae,negative,0
+Rahway,negative,0
+San Francisco,neutral,1
+Millbrae,negative,0
+Salt Lake City,positive,2
+Union,negative,0
+West Valley City,neutral,1
+Palm Springs,positive,2
+San Francisco,negative,0
+Newark,neutral,1
+Elizabeth,negative,0
+Newark,negative,0
+Millbrae,neutral,1
+Newark,negative,0
+Millbrae,negative,0
+Millbrae,negative,0
+Elizabeth,negative,0
+Beverly Hills,neutral,1
+Louisville,neutral,1
+Oak Hill,negative,0
+Jackson Heights,positive,2
+San Bruno,negative,0
+Gahanna,negative,0
+Lexington,negative,0
+Lexington,negative,0
+Gahanna,negative,0
+San Luis Obispo,negative,0
+San Luis Obispo,negative,0
+New York City,positive,2
+Millbrae,negative,0
+Millbrae,negative,0
+Farragut,positive,2
+Rancho Cucamonga,neutral,1
+Phra Pradaeng,neutral,1
+Rancho Cucamonga,negative,0
+Rancho Cucamonga,negative,0
+Singapore,neutral,1
+Security-Widefield,negative,0
+Sydney,neutral,1
+Bensenville,negative,0
+Charlotte,neutral,1
+Harrison,neutral,1
+Aldine,positive,2
+Boulder,negative,0
+Bensenville,neutral,1
+Phoenix,negative,0
+Oak Hill,negative,0
+Bensenville,negative,0
+Brighton,negative,0
+Aldine,negative,0
+Millbrae,neutral,1
+Kenner,negative,0
+Palm Desert,negative,0
+Brentwood,negative,0
+Palm Desert,negative,0
+Palm Desert,negative,0
+West Orange,negative,0
+Palm Desert,negative,0
+Millbrae,negative,0
+Palm Desert,negative,0
+Town 'n' Country,negative,0
+Palm Desert,negative,0
+Palm Desert,negative,0
+South Jordan,positive,2
+Paradise,negative,0
+Paradise,negative,0
+Rubidoux,positive,2
+Glen Avon,negative,0
+Bensenville,negative,0
+Washington Heights,negative,0
+Leawood,positive,2
+Skokie,neutral,1
+Newark,negative,0
+Newark,negative,0
+Millbrae,negative,0
+Millbrae,negative,0
+Vancouver,negative,0
+Brighton,neutral,1
+Brighton,neutral,1
+Bonita Springs,negative,0
+Brighton,positive,2
+Newark,negative,0
+Newark,negative,0
+American Fork,positive,2
+Millbrae,negative,0
+Cypress,neutral,1
+"Washington, D.C.",negative,0
+Ossining,negative,0
+Ossining,negative,0
+Ossining,positive,2
+Cicero,negative,0
+Forest Hills,negative,0
+Napa,negative,0
+West Raleigh,negative,0
+Chelsea,positive,2
+Drexel Hill,negative,0
+Liberty,neutral,1
+Millbrae,positive,2
+Millbrae,negative,0
+Mentor,neutral,1
+Sparks,positive,2
+San Diego,negative,0
+Marlborough,negative,0
+San Diego,negative,0
+Tempe Junction,positive,2
+East Point,negative,0
+Euless,positive,2
+Santa Monica,positive,2
+Salt Lake City,positive,2
+Cicero,negative,0
+Lubbock,positive,2
+Houston,positive,2
+North Canton,neutral,1
+San Diego,negative,0
+North Canton,negative,0
+Troy,positive,2
+Troy,neutral,1
+Drexel Hill,neutral,1
+Austin,negative,0
+Tempe Junction,positive,2
+Addison,negative,0
+Warwick,negative,0
+North Little Rock,positive,2
+Burbank,neutral,1
+"Washington, D.C.",negative,0
+Cranberry Township,positive,2
+Nashville,negative,0
+Fairhaven,negative,0
+Drexel Hill,negative,0
+Denver,negative,0
+Ferndale,negative,0
+Oak Ridge,neutral,1
+Ferndale,negative,0
+Ferndale,negative,0
+Ferndale,negative,0
+Ferndale,negative,0
+Ferndale,neutral,1
+Romulus,negative,0
+Ferndale,negative,0
+Ferndale,negative,0
+Oak Ridge,negative,0
+Spring Valley,negative,0
+Ferndale,negative,0
+Ferndale,negative,0
+Ferndale,neutral,1
+Ferndale,negative,0
+Houston,neutral,1
+San Carlos Park,negative,0
+Parole,positive,2
+Austin,neutral,1
+Ashtabula,negative,0
+Santa Ana,positive,2
+Austin,positive,2
+Jackson Heights,positive,2
+Council Bluffs,negative,0
+Council Bluffs,negative,0
+Germantown,neutral,1
+Henderson,negative,0
+Levittown,neutral,1
+Cicero,positive,2
+Overland,positive,2
+Islip,negative,0
+Windsor,negative,0
+Windsor,negative,0
+El Segundo,negative,0
+North Chicago,negative,0
+Frisco,negative,0
+Dania Beach,neutral,1
+Costa Mesa,positive,2
+Allen,negative,0
+Jackson Heights,negative,0
+San Francisco,negative,0
+Paradise,negative,0
+Hope Mills,neutral,1
+Dallas,negative,0
+San Diego,neutral,1
+Gladstone,negative,0
+Brentwood,positive,2
+Nashville,negative,0
+Austin,negative,0
+Rancho Cucamonga,positive,2
+Baltimore,neutral,1
+Williamsport,neutral,1
+Austin,neutral,1
+Kenner,negative,0
+Gladstone,negative,0
+Brighton,negative,0
+Frisco,positive,2
+Meadow Woods,positive,2
+Addison,positive,2
+El Segundo,negative,0
+El Segundo,negative,0
+Ferndale,negative,0
+Elizabeth City,positive,2
+Houston,positive,2
+Dickson,negative,0
+Tampa,neutral,1
+Richfield,neutral,1
+Annapolis,positive,2
+Herriman,neutral,1
+Brushy Creek,positive,2
+Nashville,negative,0
+Coral Gables,negative,0
+Napa,negative,0
+Waterford,neutral,1
+Nashville,negative,0
+Newark,negative,0
+Plainfield,positive,2
+Nashville,positive,2
+Friendswood,negative,0
+Tempe Junction,negative,0
+Nashville,neutral,1
+Mariners Harbor,negative,0
+Mariners Harbor,negative,0
+Mariners Harbor,negative,0
+Mariners Harbor,negative,0
+Mariners Harbor,negative,0
+Atascocita,positive,2
+La Vergne,positive,2
+Overland,negative,0
+Bowie,positive,2
+Durham,positive,2
+Johnston,negative,0
+West Pensacola,negative,0
+Salisbury,neutral,1
+Cancun,neutral,1
+New York City,neutral,1
+Santa Monica,positive,2
+Santa Monica,neutral,1
+Santa Monica,positive,2
+Chelsea,negative,0
+Long Beach,neutral,1
+Boston,neutral,1
+Queens Village,neutral,1
+Queens Village,negative,0
+City of Milford (balance),positive,2
+Canary Wharf,negative,0
+Seven Oaks,negative,0
+Marlborough,neutral,1
+Belvedere Park,positive,2
+Boston,positive,2
+Boca Raton,positive,2
+White Plains,positive,2
+Springfield Gardens,neutral,1
+White Plains,negative,0
+Springfield Gardens,neutral,1
+Springfield Gardens,negative,0
+Dania Beach,negative,0
+Bridgetown,neutral,1
+Bridgetown,negative,0
+Huntington Beach,positive,2
+Springfield Gardens,neutral,1
+Springfield Gardens,negative,0
+Chelsea,negative,0
+Wayne,positive,2
+Parsippany,negative,0
+Morristown,negative,0
+Jackson Heights,neutral,1
+Springfield Gardens,negative,0
+Springfield Gardens,negative,0
+Dyker Heights,neutral,1
+Dyker Heights,negative,0
+Dyker Heights,negative,0
+Dyker Heights,negative,0
+Whitestone,neutral,1
+Springfield Gardens,negative,0
+Woodstock,negative,0
+College Point,negative,0
+Funza,positive,2
+San Diego,negative,0
+Springfield Gardens,negative,0
+El Dorado Hills,positive,2
+Springfield Gardens,negative,0
+Springfield Gardens,negative,0
+West Sacramento,positive,2
+Nassau,neutral,1
+Decatur,positive,2
+Springfield Gardens,negative,0
+Springfield Gardens,negative,0
+Chelsea,neutral,1
+Carolina,negative,0
+East Massapequa,positive,2
+Port Chester,positive,2
+Springfield Gardens,negative,0
+Meadow Woods,positive,2
+Cottonwood Heights,negative,0
+Cottonwood Heights,negative,0
+Wakefield,neutral,1
+Wakefield,negative,0
+Long Island City,positive,2
+Long Island City,neutral,1
+Queensbury,neutral,1
+Long Beach,neutral,1
+Dania Beach,positive,2
+Springfield Gardens,negative,0
+Springfield Gardens,negative,0
+Springfield Gardens,negative,0
+Springfield Gardens,negative,0
+Santa Clara,neutral,1
+"Washington, D.C.",neutral,1
+North Salt Lake,positive,2
+Springfield Gardens,neutral,1
+Springfield Gardens,negative,0
+Springfield Gardens,negative,0
+Springfield Gardens,negative,0
+Springfield Gardens,negative,0
+Springfield Gardens,negative,0
+Springfield Gardens,positive,2
+Springfield Gardens,negative,0
+Springfield Gardens,negative,0
+Springfield Gardens,neutral,1
+Springfield Gardens,negative,0
+Springfield Gardens,negative,0
+Chelsea,positive,2
+Chelsea,negative,0
+Brooklyn,negative,0
+"Washington, D.C.",negative,0
+Anaheim,negative,0
+Anaheim,neutral,1
+Springfield Gardens,positive,2
+Springfield Gardens,negative,0
+Springfield Gardens,negative,0
+Somerset,negative,0
+Somerset,negative,0
+Somerset,neutral,1
+Springfield Gardens,negative,0
+Somerset,negative,0
+Springfield Gardens,negative,0
+Jackson Heights,negative,0
+Longview,neutral,1
+Jackson Heights,negative,0
+Wethersfield,negative,0
+Meadow Woods,positive,2
+The Valley,positive,2
+The Valley,positive,2
+The Valley,positive,2
+San Diego,negative,0
+Candelaria,negative,0
+Candelaria,negative,0
+Rancho Penasquitos,negative,0
+Chelsea,negative,0
+Springfield Gardens,neutral,1
+Springfield Gardens,negative,0
+Longview,neutral,1
+Longview,neutral,1
+Secaucus,positive,2
+Savannah,positive,2
+Charlotte,negative,0
+Tempe Junction,positive,2
+Newark,negative,0
+Aldine,negative,0
+Cypress,negative,0
+Charlotte,positive,2
+Potomac,neutral,1
+Drexel Hill,neutral,1
+Milton,negative,0
+Tempe Junction,negative,0
+Tempe Junction,negative,0
+Tempe Junction,negative,0
+Charlotte,negative,0
+Drexel Hill,negative,0
+Drexel Hill,negative,0
+Drexel Hill,negative,0
+East Point,neutral,1
+Cancun,negative,0
+Upper Saint Clair,negative,0
+Paradise,negative,0
+Torrance,negative,0
+"Washington, D.C.",negative,0
+Hilton Head,negative,0
+Mountain Brook,negative,0
+Drexel Hill,negative,0
+Drexel Hill,negative,0
+Cancun,negative,0
+Drexel Hill,negative,0
+Drexel Hill,negative,0
+Chelsea,negative,0
+Dover,negative,0
+Dover,negative,0
+Dover,negative,0
+Dover,negative,0
+West Albany,negative,0
+Morrisville,neutral,1
+Morrisville,negative,0
+Birmingham,neutral,1
+Commack,negative,0
+Zionsville,negative,0
+San Francisco,negative,0
+Charlotte,negative,0
+Charlotte,negative,0
+Willow Grove,negative,0
+Drexel Hill,negative,0
+Chillum,negative,0
+Pleasantville,negative,0
+Lebanon,negative,0
+Miami Beach,negative,0
+Miami Beach,negative,0
+Florence,negative,0
+Arbutus,negative,0
+Drexel Hill,negative,0
+East York,negative,0
+Roswell,negative,0
+Drexel Hill,negative,0
+Drexel Hill,negative,0
+Drexel Hill,negative,0
+Willow Grove,negative,0
+Drexel Hill,negative,0
+Charlotte,negative,0
+Charlotte,negative,0
+Willow Grove,negative,0
+Cleveland,negative,0
+Tempe Junction,negative,0
+Cleveland,negative,0
+Warwick,positive,2
+Cleveland,negative,0
+Cleveland,negative,0
+Philadelphia,positive,2
+Philadelphia,negative,0
+Charlotte,negative,0
+Universal City,negative,0
+"Washington, D.C.",negative,0
+"Washington, D.C.",negative,0
+Philadelphia,neutral,1
+Okolona,negative,0
+Lake in the Hills,neutral,1
+Lake in the Hills,negative,0
+Charlotte,negative,0
+Universal City,negative,0
+College Point,negative,0
+Ashford,negative,0
+Charlotte,negative,0
+"Washington, D.C.",negative,0
+"Washington, D.C.",negative,0
+Drexel Hill,negative,0
+Drexel Hill,negative,0
+Kenner,negative,0
+Cudahy,neutral,1
+Cudahy,positive,2
+Kenner,negative,0
+Kenner,negative,0
+Kenner,negative,0
+Hoboken,negative,0
+Charlotte,positive,2
+Orange,neutral,1
+Charlotte,positive,2
+Charlotte,negative,0
+Charlotte,negative,0
+Charlotte,negative,0
+Charlotte,positive,2
+Charlotte,positive,2
+Charlotte,negative,0
+Kent,negative,0
+Kent,negative,0
+Kent,positive,2
+Tallahassee,negative,0
+Tallahassee,negative,0
+Charlotte,negative,0
+East Lansing,negative,0
+East Lansing,negative,0
+Charlotte,negative,0
+Paradise,negative,0
+Charlotte,negative,0
+Charlotte,negative,0
+Town 'n' Country,positive,2
+North Miami,negative,0
+Charlotte,negative,0
+"Washington, D.C.",negative,0
+"Washington, D.C.",negative,0
+Paradise,positive,2
+Springfield Gardens,negative,0
+Charlotte,negative,0
+Paradise,positive,2
+Charlotte,negative,0
+San Francisco,positive,2
+Haltom City,neutral,1
+Bushwick,negative,0
+Bushwick,negative,0
+Bushwick,negative,0
+Bushwick,negative,0
+Santa Monica,negative,0
+Charlotte,negative,0
+San Francisco,positive,2
+Haltom City,neutral,1
+Bushwick,negative,0
+Bushwick,negative,0
+Bushwick,negative,0
+Bushwick,negative,0
+Grapevine,negative,0
+Egypt Lake-Leto,neutral,1
+Manhattan,negative,0
+Egypt Lake-Leto,negative,0
+White Plains,positive,2
+Egypt Lake-Leto,negative,0
+Gladstone,negative,0
+Gladstone,neutral,1
+Palm Springs,positive,2
+Gladstone,negative,0
+Weymouth,negative,0
+Rockland,negative,0
+Austin,negative,0
+Coppell,neutral,1
+Coppell,negative,0
+Coppell,negative,0
+Evanston,negative,0
+Grapevine,positive,2
+Manhattan,negative,0
+Skokie,negative,0
+Jackson Heights,negative,0
+Philadelphia,neutral,1
+Coppell,positive,2
+Bensenville,positive,2
+Coppell,negative,0
+Seattle,negative,0
+Franklin Park,negative,0
+Fairview Park,negative,0
+Fairview Park,negative,0
+Fairview Park,negative,0
+Brownsville,negative,0
+Fairview Park,negative,0
+Rogers,negative,0
+Morrisville,negative,0
+Fairview Park,negative,0
+Bensenville,negative,0
+Germantown,negative,0
+Germantown,negative,0
+Germantown,negative,0
+Germantown,negative,0
+Germantown,negative,0
+Germantown,negative,0
+Bensenville,negative,0
+Golden,positive,2
+Midland,negative,0
+Grapevine,negative,0
+Santa Monica,neutral,1
+Costa Mesa,positive,2
+Kannapolis,negative,0
+Coppell,negative,0
+Santa Monica,negative,0
+Elizabeth,negative,0
+Golden,negative,0
+Springfield,neutral,1
+Santa Monica,negative,0
+Tempe Junction,negative,0
+Tallahassee,neutral,1
+Springfield,neutral,1
+Hollywood,negative,0
+Bensenville,positive,2
+Shrewsbury,negative,0
+Shrewsbury,negative,0
+Four Corners,negative,0
+Shrewsbury,negative,0
+Dallas,negative,0
+Golden,negative,0
+Cartagena,neutral,1
+Hollywood,negative,0
+Hollywood,negative,0
+Shrewsbury,negative,0
+Phoenix,negative,0
+Montrose,negative,0
+Bensenville,negative,0
+San Francisco,negative,0
+Montrose,negative,0
+Montrose,negative,0
+Montrose,negative,0
+Montrose,neutral,1
+Montrose,negative,0
+Minneapolis,negative,0
+El Segundo,negative,0
+El Segundo,negative,0
+El Segundo,negative,0
+Battersea,negative,0
+Germantown,negative,0
+El Segundo,negative,0
+Dallas,negative,0
+Dallas,negative,0
+Battersea,negative,0
+Phoenix,negative,0
+Romulus,negative,0
+Seattle,negative,0
+Miami Beach,negative,0
+Corpus Christi,neutral,1
+Corpus Christi,negative,0
+Battersea,negative,0
+Canarsie,positive,2
+Brownsville,neutral,1
+Tempe,negative,0
+Glendale,neutral,1
+Charlotte,positive,2
+Kensington,negative,0
+Key West,positive,2
+El Segundo,positive,2
+Atascocita,negative,0
+East York,negative,0
+Honolulu,negative,0
+Brownsville,negative,0
+Jacksonville Beach,neutral,1
+Grapevine,negative,0
+Grapevine,negative,0
+Austin,positive,2
+Brighton,negative,0
+Springfield Gardens,negative,0
+Brownsville,negative,0
+Charlotte,neutral,1
+Grapevine,negative,0
+Bensenville,positive,2
+Miami Beach,negative,0
+Miami Beach,negative,0
+Miami Beach,negative,0
+Charlotte,negative,0
+El Segundo,positive,2
+Santa Monica,negative,0
+Charlotte,negative,0
+Santa Monica,negative,0
+Springfield Gardens,negative,0
+Springfield Gardens,negative,0
+Charlotte,negative,0
+Coppell,negative,0
+"Washington, D.C.",negative,0
+Mount Vernon,negative,0
+Springfield Gardens,negative,0
+Morrisville,positive,2
+Howard Beach,negative,0
+Garland,negative,0
+Flagami,positive,2
+Angeles City,negative,0
+"Washington, D.C.",negative,0
+Tacoma,negative,0
+Springfield Gardens,positive,2
+Garland,negative,0
+Elizabeth,positive,2
+Augusta,positive,2
+Harlem,negative,0
+Montrose,negative,0
+Montrose,negative,0
+East Point,negative,0
+Grapevine,negative,0
+El Segundo,negative,0
+Rio Rancho,negative,0
+Mount Vernon,negative,0
+Grapevine,negative,0
+Springfield Gardens,positive,2
